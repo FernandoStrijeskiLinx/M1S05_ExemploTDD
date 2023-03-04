@@ -2,7 +2,7 @@
 ```dotnet new mstest -o Calculadora.Test```
 
 # Rodar Projeto de Teste 
-```dotnet teste Calculadora.Test```
+```dotnet test Calculadora.Test```
 
 # Criar projeto de Calculadora 
 ```dotnet new console -o Calculadora```
